@@ -50,7 +50,7 @@ O objetivo do projeto é demonstrar habilidades práticas em Laravel trabalhando
 ## 📦 Como Instalar
 
 ```bash
-git clone https://github.com/seu-usuario/rh-mangnt.git
+git clone https://github.com/BrunoMendes20/RH-MANGNT
 cd rh-mangnt
 composer install
 cp .env.example .env
